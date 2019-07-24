@@ -1,0 +1,263 @@
+INFO: 2019/07/23 08:18:45 Service dependencies resolved...
+INFO: 2019/07/23 08:18:45 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 08:18:45 This is the System Management Agent Service
+INFO: 2019/07/23 08:18:45 Service started in: 505.476µs
+INFO: 2019/07/23 08:18:45 Listening on port: 48090
+WARN: 2019/07/23 08:18:45 terminating: listen tcp :48090: bind: address already in use
+INFO: 2019/07/23 08:33:30 Service dependencies resolved...
+INFO: 2019/07/23 08:33:30 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 08:33:30 This is the System Management Agent Service
+INFO: 2019/07/23 08:33:30 Service started in: 364.931µs
+INFO: 2019/07/23 08:33:30 Listening on port: 48090
+INFO: 2019/07/23 08:34:47 About to {stop} the service {edgex-support-notifications} 
+INFO: 2019/07/23 08:35:09 About to {start} the service {edgex-support-notifications} 
+WARN: 2019/07/23 08:35:43 terminating: interrupt
+INFO: 2019/07/23 08:38:00 Service dependencies resolved...
+INFO: 2019/07/23 08:38:00 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 08:38:00 This is the System Management Agent Service
+INFO: 2019/07/23 08:38:00 Service started in: 377.361µs
+INFO: 2019/07/23 08:38:00 Listening on port: 48090
+INFO: 2019/07/23 08:38:57 About to {start} the service {edgex-support-notifications} 
+INFO: 2019/07/23 08:39:42 About to {start} the service {edgex-support-notifications} 
+INFO: 2019/07/23 08:40:11 About to {start} the service {edgex-core-data} 
+INFO: 2019/07/23 08:40:46 About to {start} the service {edgex-core-data} 
+INFO: 2019/07/23 08:43:59 About to {start} the service {edgex-mongo} 
+INFO: 2019/07/23 08:43:59 >> Unknown service: edgex-mongo
+INFO: 2019/07/23 08:47:23 About to {start} the service {edgex-core-data} 
+WARN: 2019/07/23 08:48:15 terminating: interrupt
+INFO: 2019/07/23 09:01:24 Service dependencies resolved...
+INFO: 2019/07/23 09:01:24 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 09:01:24 This is the System Management Agent Service
+INFO: 2019/07/23 09:01:24 Service started in: 475.7µs
+INFO: 2019/07/23 09:01:24 Listening on port: 48090
+INFO: 2019/07/23 09:01:37 About to {start} the service {edgex-core-data} 
+WARN: 2019/07/23 09:02:49 terminating: interrupt
+INFO: 2019/07/23 09:26:42 Service dependencies resolved...
+INFO: 2019/07/23 09:26:42 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 09:26:42 This is the System Management Agent Service
+INFO: 2019/07/23 09:26:42 Service started in: 437.626µs
+INFO: 2019/07/23 09:26:42 Listening on port: 48090
+INFO: 2019/07/23 09:27:19 About to {start} the service {edgex-core-data} 
+INFO: 2019/07/23 09:28:13 About to {start} the service {edgex-core-data} 
+INFO: 2019/07/23 09:30:46 About to {start} the service {edgex-core-data} 
+INFO: 2019/07/23 09:30:58 About to {stop} the service {edgex-core-data} 
+INFO: 2019/07/23 09:32:23 About to {start} the service {edgex-core-data} 
+INFO: 2019/07/23 09:33:17 >> Unknown action retart
+
+INFO: 2019/07/23 09:33:23 About to {stop} the service {edgex-core-data} 
+INFO: 2019/07/23 09:33:23 About to {start} the service {edgex-core-data} 
+INFO: 2019/07/23 09:35:17 About to {stop} the service {edgex-support-notifications} 
+INFO: 2019/07/23 09:35:56 About to {stop} the service {edgex-support-notifications} 
+INFO: 2019/07/23 09:35:56 About to {start} the service {edgex-support-notifications} 
+INFO: 2019/07/23 09:57:24 About to {stop} the service {edgex-support-logging} 
+INFO: 2019/07/23 09:57:50 About to {stop} the service {edgex-support-logging} 
+INFO: 2019/07/23 09:57:50 About to {start} the service {edgex-support-logging} 
+INFO: 2019/07/23 09:58:49 About to {stop} the service {edgex-support-logging} 
+INFO: 2019/07/23 09:58:49 About to {start} the service {edgex-support-logging} 
+WARN: 2019/07/23 10:07:50 terminating: interrupt
+INFO: 2019/07/23 10:08:16 Service dependencies resolved...
+INFO: 2019/07/23 10:08:16 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:08:16 This is the System Management Agent Service
+INFO: 2019/07/23 10:08:16 Service started in: 1.315975ms
+INFO: 2019/07/23 10:08:16 Listening on port: 48090
+INFO: 2019/07/23 10:08:32 About to {stop} the service {edgex-support-logging} 
+INFO: 2019/07/23 10:08:32 About to {start} the service {edgex-support-logging} 
+INFO: 2019/07/23 10:09:03 About to {start} the service {edgex-support-logging} 
+INFO: 2019/07/23 10:09:26 About to {stop} the service {edgex-support-logging} 
+INFO: 2019/07/23 10:09:53 About to {stop} the service {edgex-support-logging} 
+INFO: 2019/07/23 10:09:53 About to {start} the service {edgex-support-logging} 
+WARN: 2019/07/23 10:10:38 terminating: interrupt
+INFO: 2019/07/23 10:11:46 Service dependencies resolved...
+INFO: 2019/07/23 10:11:46 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:11:46 This is the System Management Agent Service
+INFO: 2019/07/23 10:11:46 Service started in: 357.255µs
+INFO: 2019/07/23 10:11:46 Listening on port: 48090
+WARN: 2019/07/23 10:12:09 terminating: interrupt
+INFO: 2019/07/23 10:12:28 Service dependencies resolved...
+INFO: 2019/07/23 10:12:28 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:12:28 This is the System Management Agent Service
+INFO: 2019/07/23 10:12:28 Service started in: 460.747µs
+INFO: 2019/07/23 10:12:28 Listening on port: 48090
+INFO: 2019/07/23 10:12:34 About to {stop} the service {edgex-support-logging} 
+INFO: 2019/07/23 10:12:34 About to {start} the service {edgex-support-logging} 
+INFO: 2019/07/23 10:14:24 Service dependencies resolved...
+INFO: 2019/07/23 10:14:24 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:14:24 This is the System Management Agent Service
+INFO: 2019/07/23 10:14:24 Service started in: 469.422µs
+INFO: 2019/07/23 10:14:24 Listening on port: 48090
+WARN: 2019/07/23 10:14:24 terminating: listen tcp :48090: bind: address already in use
+INFO: 2019/07/23 10:14:53 Service dependencies resolved...
+INFO: 2019/07/23 10:14:53 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:14:53 This is the System Management Agent Service
+INFO: 2019/07/23 10:14:53 Service started in: 585.346µs
+INFO: 2019/07/23 10:14:53 Listening on port: 48090
+WARN: 2019/07/23 10:14:53 terminating: listen tcp :48090: bind: address already in use
+INFO: 2019/07/23 10:15:38 Service dependencies resolved...
+INFO: 2019/07/23 10:15:38 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:15:38 This is the System Management Agent Service
+INFO: 2019/07/23 10:15:38 Service started in: 541.578µs
+INFO: 2019/07/23 10:15:38 Listening on port: 48090
+WARN: 2019/07/23 10:15:38 terminating: listen tcp :48090: bind: address already in use
+INFO: 2019/07/23 10:16:46 Service dependencies resolved...
+INFO: 2019/07/23 10:16:46 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:16:46 This is the System Management Agent Service
+INFO: 2019/07/23 10:16:46 Service started in: 460.181µs
+INFO: 2019/07/23 10:16:46 Listening on port: 48090
+INFO: 2019/07/23 10:16:54 About to {stop} the service {edgex-support-logging} 
+INFO: 2019/07/23 10:16:54 About to {start} the service {edgex-support-logging} 
+WARN: 2019/07/23 10:17:50 terminating: interrupt
+INFO: 2019/07/23 10:20:09 Service dependencies resolved...
+INFO: 2019/07/23 10:20:09 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:20:09 This is the System Management Agent Service
+INFO: 2019/07/23 10:20:09 Service started in: 1.570944ms
+INFO: 2019/07/23 10:20:09 Listening on port: 48090
+INFO: 2019/07/23 10:21:26 About to {start} the service {edgex-support-logging} 
+INFO: 2019/07/23 10:25:55 About to {start} the service {edgex-core-data} 
+WARN: 2019/07/23 10:26:37 terminating: interrupt
+INFO: 2019/07/23 10:28:02 Service dependencies resolved...
+INFO: 2019/07/23 10:28:02 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:28:02 This is the System Management Agent Service
+INFO: 2019/07/23 10:28:02 Service started in: 432.496µs
+INFO: 2019/07/23 10:28:02 Listening on port: 48090
+INFO: 2019/07/23 10:28:08 About to {start} the service {edgex-core-data} 
+INFO: 2019/07/23 10:29:43 About to {start} the service {edgex-device-random} 
+INFO: 2019/07/23 10:29:43 >> Unknown service: edgex-device-random
+INFO: 2019/07/23 10:30:14 About to {start} the service {edgex-export-distro} 
+INFO: 2019/07/23 10:31:03 About to {stop} the service {edgex-export-distro} 
+INFO: 2019/07/23 10:31:13 About to {start} the service {edgex-export-distro} 
+INFO: 2019/07/23 10:32:00 About to {stop} the service {edgex-export-distro} 
+WARN: 2019/07/23 10:34:36 terminating: interrupt
+INFO: 2019/07/23 10:52:27 Service dependencies resolved...
+INFO: 2019/07/23 10:52:27 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:52:27 This is the System Management Agent Service
+INFO: 2019/07/23 10:52:27 Service started in: 409.621µs
+INFO: 2019/07/23 10:52:27 Listening on port: 48090
+INFO: 2019/07/23 10:53:12 About to {start} the service {edgex-mock-mqtt1} 
+INFO: 2019/07/23 10:53:12 >> Unknown service: edgex-mock-mqtt1
+WARN: 2019/07/23 10:55:14 terminating: interrupt
+INFO: 2019/07/23 10:55:52 Service dependencies resolved...
+INFO: 2019/07/23 10:55:52 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 10:55:52 This is the System Management Agent Service
+INFO: 2019/07/23 10:55:52 Service started in: 531.943µs
+INFO: 2019/07/23 10:55:52 Listening on port: 48090
+INFO: 2019/07/23 10:55:56 About to {start} the service {edgex-mock-mqtt1} 
+INFO: 2019/07/23 10:56:20 About to {start} the service {edgex-mock-mqtt2} 
+INFO: 2019/07/23 10:56:48 About to {start} the service {edgex-mock-mqtt3} 
+INFO: 2019/07/23 10:57:01 About to {stop} the service {edgex-mock-mqtt3} 
+INFO: 2019/07/23 10:57:12 About to {stop} the service {edgex-mock-mqtt3} 
+INFO: 2019/07/23 10:57:12 About to {start} the service {edgex-mock-mqtt3} 
+WARN: 2019/07/23 10:59:35 terminating: interrupt
+INFO: 2019/07/23 13:20:11 Service dependencies resolved...
+INFO: 2019/07/23 13:20:11 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 13:20:11 This is the System Management Agent Service
+INFO: 2019/07/23 13:20:11 Service started in: 590.549µs
+INFO: 2019/07/23 13:20:11 Listening on port: 48090
+INFO: 2019/07/23 13:20:21 About to {start} the service {edgex-mock-mqtt3} 
+INFO: 2019/07/23 13:20:54 About to {stop} the service {edgex-mock-mqtt3} 
+INFO: 2019/07/23 13:21:11 About to {stop} the service {edgex-mock-mqtt3} 
+INFO: 2019/07/23 13:21:11 About to {start} the service {edgex-mock-mqtt3} 
+INFO: 2019/07/23 13:21:43 About to {start} the service {edgex-core-data} 
+INFO: 2019/07/23 13:22:25 About to {stop} the service {edgex-core-data} 
+INFO: 2019/07/23 13:22:47 About to {stop} the service {edgex-core-data} 
+INFO: 2019/07/23 13:22:47 About to {start} the service {edgex-core-data} 
+WARN: 2019/07/23 13:23:55 terminating: interrupt
+INFO: 2019/07/23 13:24:32 Service dependencies resolved...
+INFO: 2019/07/23 13:24:32 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 13:24:32 This is the System Management Agent Service
+INFO: 2019/07/23 13:24:32 Service started in: 449.55µs
+INFO: 2019/07/23 13:24:32 Listening on port: 48090
+INFO: 2019/07/23 13:25:04 About to {start} the service {edgex-mock-mqtt1} 
+INFO: 2019/07/23 13:26:57 About to {stop} the service {edgex-mock-mqtt1} 
+WARN: 2019/07/23 13:27:16 terminating: interrupt
+INFO: 2019/07/23 13:28:01 Service dependencies resolved...
+INFO: 2019/07/23 13:28:01 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 13:28:01 This is the System Management Agent Service
+INFO: 2019/07/23 13:28:01 Service started in: 532.611µs
+INFO: 2019/07/23 13:28:01 Listening on port: 48090
+INFO: 2019/07/23 13:28:17 About to {stop} the service {edgex-mock-mqtt1} 
+INFO: 2019/07/23 13:28:17 About to {start} the service {edgex-mock-mqtt1} 
+WARN: 2019/07/23 13:28:48 terminating: interrupt
+INFO: 2019/07/23 15:51:21 Service dependencies resolved...
+INFO: 2019/07/23 15:51:21 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 15:51:21 This is the System Management Agent Service
+INFO: 2019/07/23 15:51:21 Service started in: 420.1µs
+INFO: 2019/07/23 15:51:21 Listening on port: 48090
+WARN: 2019/07/23 15:51:23 terminating: interrupt
+INFO: 2019/07/23 16:29:17 Service dependencies resolved...
+INFO: 2019/07/23 16:29:17 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 16:29:17 This is the System Management Agent Service
+INFO: 2019/07/23 16:29:17 Service started in: 456.712µs
+INFO: 2019/07/23 16:29:17 Listening on port: 48090
+INFO: 2019/07/23 16:29:21 About to {start} the service {edgex-core-data} 
+WARN: 2019/07/23 16:29:37 terminating: interrupt
+INFO: 2019/07/23 16:29:50 Service dependencies resolved...
+INFO: 2019/07/23 16:29:50 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 16:29:50 This is the System Management Agent Service
+INFO: 2019/07/23 16:29:50 Service started in: 634.968µs
+INFO: 2019/07/23 16:29:50 Listening on port: 48090
+INFO: 2019/07/23 16:29:53 About to {start} the service {edgex-core-data} 
+WARN: 2019/07/23 16:30:05 terminating: interrupt
+INFO: 2019/07/23 16:32:07 Service dependencies resolved...
+INFO: 2019/07/23 16:32:07 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 16:32:07 This is the System Management Agent Service
+INFO: 2019/07/23 16:32:07 Service started in: 522.886µs
+INFO: 2019/07/23 16:32:07 Listening on port: 48090
+INFO: 2019/07/23 16:32:10 About to {start} the service {edgex-core-data} 
+WARN: 2019/07/23 16:32:56 terminating: interrupt
+INFO: 2019/07/23 16:33:26 Service dependencies resolved...
+INFO: 2019/07/23 16:33:26 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 16:33:26 This is the System Management Agent Service
+INFO: 2019/07/23 16:33:26 Service started in: 408.152µs
+INFO: 2019/07/23 16:33:26 Listening on port: 48090
+INFO: 2019/07/23 16:33:38 About to {start} the service {edgex-mock-mqtt1} 
+INFO: 2019/07/23 16:33:54 About to {stop} the service {edgex-mock-mqtt1} 
+INFO: 2019/07/23 16:34:12 About to {stop} the service {edgex-mock-mqtt1} 
+INFO: 2019/07/23 16:34:12 About to {start} the service {edgex-mock-mqtt1} 
+INFO: 2019/07/23 16:34:30 About to {stop} the service {edgex-mock-mqtt1} 
+WARN: 2019/07/23 16:34:51 terminating: interrupt
+INFO: 2019/07/23 17:55:09 Service dependencies resolved...
+INFO: 2019/07/23 17:55:09 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 17:55:09 This is the System Management Agent Service
+INFO: 2019/07/23 17:55:09 Service started in: 381.672µs
+INFO: 2019/07/23 17:55:09 Listening on port: 48090
+WARN: 2019/07/23 17:55:09 terminating: listen tcp :48090: bind: address already in use
+INFO: 2019/07/23 18:16:35 Service dependencies resolved...
+INFO: 2019/07/23 18:16:35 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 18:16:35 This is the System Management Agent Service
+INFO: 2019/07/23 18:16:35 Service started in: 431.606µs
+INFO: 2019/07/23 18:16:35 Listening on port: 48090
+INFO: 2019/07/23 18:16:44 About to {start} the service {edgex-support-logging} 
+INFO: 2019/07/23 18:16:57 About to {stop} the service {edgex-support-logging} 
+INFO: 2019/07/23 18:17:24 About to {stop} the service {edgex-support-logging} 
+INFO: 2019/07/23 18:17:24 About to {start} the service {edgex-support-logging} 
+WARN: 2019/07/23 18:17:33 terminating: interrupt
+INFO: 2019/07/23 18:18:37 Service dependencies resolved...
+INFO: 2019/07/23 18:18:37 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 18:18:37 This is the System Management Agent Service
+INFO: 2019/07/23 18:18:37 Service started in: 486.534µs
+INFO: 2019/07/23 18:18:37 Listening on port: 48090
+INFO: 2019/07/23 18:19:37 About to {start} the service {edgex-core-data} 
+WARN: 2019/07/23 18:20:30 terminating: interrupt
+INFO: 2019/07/23 19:52:21 Service dependencies resolved...
+INFO: 2019/07/23 19:52:21 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 19:52:21 This is the System Management Agent Service
+INFO: 2019/07/23 19:52:21 Service started in: 518.38µs
+INFO: 2019/07/23 19:52:21 Listening on port: 48090
+INFO: 2019/07/23 19:52:45 About to {start} the service {edgex-core-data} 
+WARN: 2019/07/23 19:53:16 terminating: interrupt
+INFO: 2019/07/23 20:18:44 Service dependencies resolved...
+INFO: 2019/07/23 20:18:44 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/23 20:18:44 This is the System Management Agent Service
+INFO: 2019/07/23 20:18:44 Service started in: 451.034µs
+INFO: 2019/07/23 20:18:44 Listening on port: 48090
+INFO: 2019/07/23 20:18:47 About to {start} the service {edgex-core-data} 
+INFO: 2019/07/23 20:19:32 About to {stop} the service {edgex-core-data} 
+WARN: 2019/07/23 20:20:00 terminating: interrupt
+INFO: 2019/07/24 11:14:02 Service dependencies resolved...
+INFO: 2019/07/24 11:14:02 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/07/24 11:14:02 This is the System Management Agent Service
+INFO: 2019/07/24 11:14:02 Service started in: 453.935µs
+INFO: 2019/07/24 11:14:02 Listening on port: 48090
+INFO: 2019/07/24 11:14:20 About to {start} the service {edgex-mock-mqtt3} 
+INFO: 2019/07/24 11:15:04 About to {stop} the service {edgex-mock-mqtt3} 
+WARN: 2019/07/24 11:15:15 terminating: interrupt

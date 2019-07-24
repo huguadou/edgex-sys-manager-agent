@@ -1,0 +1,17 @@
+#FROM docker.bluetron.com/edgex/docker:compose
+FROM docker:latest
+
+RUN apk add --no-cache bash
+RUN rm -rf /var/cache/apk/*
+
+LABEL license='SPDX-License-Identifier:Apache-2.0' \
+      copyright='Copyright (c) 2017-2019:Mainflux,Cavium,Dell'
+
+COPY . .
+
+RUN apk --no-cache add py-pip
+RUN pip install docker-compose==1.23.2
+RUN apk --no-cache add curl
+ 
+ENTRYPOINT ["/main"]
+
